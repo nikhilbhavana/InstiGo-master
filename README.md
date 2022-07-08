@@ -4,13 +4,11 @@
 [![Issues](https://img.shields.io/github/issues-raw/oss2019/instigo-android.svg?color=red)](https://github.com/oss2019/instigo-android/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/oss2019/instigo-android.svg?color=yellow)](https://github.com/oss2019/instigo-android/pulls) [![License](https://img.shields.io/github/license/oss2019/instigo-android.svg?logoColor=red)](https://github.com/oss2019/instigo-android/blob/master/LICENSE.md) [![Gitter](https://img.shields.io/badge/chat-on%20gitter-ff006f.svg?style=flat-square)](https://gitter.im/oss2019/instigo-android)
 
 
-# InstiGo-Android
-InstiGo is an android app for the students and faculties of IIT Dharwad that provide a one stop solution for matters related to mess, academia and hostel. 
+# PESITM-Android
+PESITM is an android app for the students and faculties of PESITM,Shimogga that provide a one stop solution for matters related to mess, academia and hostel. 
 
-![InstiGo_cover](https://user-images.githubusercontent.com/34706326/82624729-eab6c100-9c00-11ea-80eb-1ab052f4592c.jpg)
 
-## InstiGo apk
-[![button](https://user-images.githubusercontent.com/34706326/57187663-142a7f00-6f10-11e9-9d89-144e9f46e8f3.jpg)](https://drive.google.com/drive/folders/186EfacIxiywjDOTjxS0nG5ktbw2RuX66?usp=sharing)
+
 ## Libraries Used
 
 - [Firebase](https://github.com/firebase/quickstart-android) - Firebase is Google's mobile platform that helps you quickly develop high-quality apps
@@ -67,26 +65,5 @@ After cloning the project, you need to replace the existing Firebase json file w
 }``
 
 
-## Contributing
-
-Before contributing be sure to check out the [CONTRIBUTION GUIDELINES](https://github.com/oss2019/instigo-android/blob/master/Contribution-Guidelines.md) guidelines.
-
-We currently have a series of automated Unit and Integration tests. These can be run locally and are also run when submitting a pull request.
-
-## Code Style
-For contributions please read the [CODESTYLE](https://github.com/oss2019/instigo-android/blob/master/Code-Style.md) carefully. Pull requests that do not match the style will be rejected.
-
-## Commit Style
-For writing commit messages please read the [COMMITSTYLE](https://github.com/oss2019/instigo-android/blob/master/Commit-Style.md) carefully. Kindly adhere to the guidelines. Pull requests not matching the style will be rejected.  
-
-## Communication
-
-Our other sources of communications include
-
-- Email : sonusouravdx001@gmail.com    
-For more information, please refer to [My personal Website](https://sonusourav.github.io/).
 
 
-## LEGAL & DISCLAIMER
-
-Please refer to [LICENSE](https://github.com/oss2019/instigo-android/blob/master/LICENSE.md).   
